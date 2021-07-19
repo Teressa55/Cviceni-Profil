@@ -25,4 +25,44 @@ Pod čáru přijde tvůj kód
 
 body {
 	background-color: #bdc3c7;
-}
+margin: 25%;
+ }
+ .jmeno,
+ .odkazy,
+ .obsah{ background-color: #31363b;
+color:aliceblue; 
+text-align: block; 
+padding:2rem ; margin-bottom: -1rem;}
+.obsah{font-family: Source Sans Pro;}
+.jmeno,
+.odkazy{ font-family: Montserrat; margin: 0;
+	padding: 0px;}
+a{color: white;text-decoration: none;}
+.portfolio{display: block;}
+.facebook,
+.twitter{display: inline-block;}
+.foto{width: 380px; background-color:#31363b; 
+	padding: 0;}
+.logo{position: absolute; top: 430px; 
+	right: 250px;margin:3px;
+	border-radius: 40px;
+	background-color: #b92e81;}
+.hlavicka{margin: 0;padding: 0; 
+	background-color: #31363b;}
+.jmeno{display: block; 
+	padding-left: 0; 
+	padding-top: 2rem;
+	font-family: Montserrat;}
+div, ul{box-shadow:2px 2px 2px black; }
+.twitter{padding:10px 4rem 10px 42px;
+text-align: center;}
+.facebook{ padding:10px 4rem 10px 40px;
+	text-align: center;}
+.portfolio{margin: -20px 0px; padding-left: 6rem;
+	padding:10px 0;
+	text-align: center; }
+li{border: 1px solid #3f464d;}
+.twitter:hover{background-color: #1da1f2;}
+.portfolio:hover{background-color:#e74c3c;}
+.facebook:hover{background-color:#3b5998 ;}
+
